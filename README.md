@@ -1,9 +1,8 @@
 <h1 align="center">¡Hey! I´m Eugenio 😄</h1>
-<h3 align="center">I´m Full-Stack Developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geniuspacs&label=Profile%20views&color=0e75b6&style=flat" alt="geniuspacs" /> </p>
 
-- 🔭 I’m currently working on **Babel**
+- 🔭 I’m Senior Software Engineer at **Babel**
 
 - 🌱 I’m currently contributing to **Open Source projects**
 
