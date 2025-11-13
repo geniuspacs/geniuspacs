@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geniuspacs&label=Profile%20views&color=0e75b6&style=flat" alt="geniuspacs" /> </p>
 
-- 🔭 I’m currently working on **Randstad Technologies**
+- 🔭 I’m currently working on **Babel**
 
-- 🌱 I’m currently learning **many Frontend and Backend frameworks**
+- 🌱 I’m currently contributing to **Open Source projects**
 
 - 👯 I’m looking to collaborate on **any kind of relevant projects**
 
-- 💬 Ask me about **Angular, NodeJS, NestJS, React or anything you want to share with me!**
+- 💬 Ask me about **Angular, NodeJS, NestJS, LitElement or anything you want to share with me!**
 
-- 📫 How to reach me **geniux14@gmail.com**
+- 📫 How to reach me **eugenio_8778@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
